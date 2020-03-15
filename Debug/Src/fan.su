@@ -1,0 +1,8 @@
+fan.c:25:6:fan_init	80	static
+fan.c:87:6:xiaomi_fan_run	16	static
+fan.c:106:6:xiaomi_fan_stop	4	static
+fan.c:115:6:fan_1_stop	4	static
+fan.c:121:6:fan_1_run	24	static
+fan.c:140:6:fan_2_stop	4	static
+fan.c:146:6:fan_2_run	24	static
+fan.c:165:6:fan_12_run	24	static

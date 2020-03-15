@@ -1,0 +1,12 @@
+MQTTClient.c:54:6:MQTTClientInit	12	static
+MQTTClient.c:165:5:deliverMessage	48	static
+MQTTClient.c:198:5:keepalive	40	static
+MQTTClient.c:226:5:cycle	104	static
+MQTTClient.c:292:5:MQTTYield	24	static
+MQTTClient.c:312:6:MQTTRun	16	static
+MQTTClient.c:341:5:waitfor	24	static
+MQTTClient.c:357:5:MQTTConnect	136	static
+MQTTClient.c:411:5:MQTTSubscribe	104	static
+MQTTClient.c:468:5:MQTTUnsubscribe	72	static
+MQTTClient.c:507:5:MQTTPublish	96	static
+MQTTClient.c:567:5:MQTTDisconnect	40	static
